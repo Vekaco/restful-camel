@@ -1,0 +1,4 @@
+camel:
+  servlet:
+    mapping:
+      context-path: /services/*
