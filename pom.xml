@@ -144,11 +144,11 @@
 <!--        </dependency>-->
 
         <!-- Open API-->
-<!--        <dependency>-->
-<!--            <groupId>org.apache.camel</groupId>-->
-<!--            <artifactId>camel-openapi-java</artifactId>-->
-<!--            <version>${camel.version}</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>org.apache.camel</groupId>
+            <artifactId>camel-openapi-java</artifactId>
+            <version>${camel.version}</version>
+        </dependency>
         <!-- Open API-->
 
         <!-- Tests -->
